@@ -75,8 +75,8 @@
 .anchorlink{
     color: blueviolet;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    margin-left: 10px;
     text-decoration: solid;        
+    margin-left: 10px;       
 }
 #navigation1{
     width: 300px;
@@ -92,3 +92,4 @@
     opacity: 60%
 
 }
+
