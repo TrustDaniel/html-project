@@ -76,6 +76,7 @@
     color: blueviolet;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin-left: 10px;
+    text-decoration: solid;        
 }
 #navigation1{
     width: 300px;
@@ -89,4 +90,5 @@
     align-content: center;
     border-radius: 15px;
     opacity: 60%
+
 }
